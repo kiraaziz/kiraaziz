@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=kiraaziz&icon=2&color=1)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🌱 I’m currently learning svelekit and rust<br><br>👨‍💻 All of my projects are available at https://github.com/kiraaziz/<br><br>📝 I regularly write articles on https://firebloggo.vercel.app<br><br>💬 Ask me about nextjs react svelte node express electron ...<br><br>📫 How to reach me kiraaziz2020@gmail.com<br><br>⚡ Fun fact I know don't you but i will help you
 
@@ -16,6 +18,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kiraaziz&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
