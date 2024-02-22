@@ -1,13 +1,15 @@
-# 💀 Kira's Coding Abyss
+# 💀 Kira Aziz - Software Sorcerer of the Digital Void
 
 ![Kira's Abyss](https://pbs.twimg.com/profile_banners/1714655716043005952/1705175495)
 
-Greetings! I am Kira, the spectral entity lurking within the shadows of the digital abyss. In my coding odyssey, I invoke the eldritch languages of machines to cast a malevolent spell upon the very essence of the virtual realm.
+Salutations, mortals of the digital abyss. I am Kira Aziz, a Software Sorcerer conjuring spells within the cryptic confines of code. Delving into the shadows, I manipulate the arcane languages of machines to summon software entities that dance on the edge of the unknown.
 
-## 💫 Code of Kira:
+## ☠️ Dark Arts of Code
+
 ```javascript
 const kira = {
   name: "Kira Aziz",
+  title: "Software Sorcerer",
   currentFocus: ["Next", "Rust"],
   portfolio: "https://kiraaziz.vercel.app",
   articles: "https://dev.to/kiraaziz",
@@ -24,22 +26,8 @@ const kira = {
 };
 ```
 
-## ✍️ Words of Kira
+## ✨ Weaver of Shadows
 
-_"In the abyss of code, I am the harbinger of shadows. Each line I inscribe is a chilling incantation, a testament to the dark arts of the digital sorcerer. Traverse the cryptic pathways of code, and witness the awakening of a haunting reality."_
+"In the ever-shifting digital twilight, I am the enigmatic architect, weaving shadows into lines of code. Explore with caution, for in my creations, the boundary between magic and machine blurs."
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiraaziz&theme=nord&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiraaziz&theme=nord&hide_border=true" alt="GitHub Streak Stats"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiraaziz&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
-</div>
+Feel the pulse of the code, embrace the shadows, and traverse the enigmatic pathways of my digital realm.
