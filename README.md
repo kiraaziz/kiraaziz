@@ -36,6 +36,6 @@ const kira = {
 Feel the pulse of the code, embrace the shadows, and traverse the enigmatic pathways of my digital realm.
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiraaziz&theme=nord&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiraaziz&theme=nord&hide_border=true" alt="GitHub Streak Stats"/><br/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiraaziz&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 </div>
